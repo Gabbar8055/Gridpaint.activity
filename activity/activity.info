@@ -4,3 +4,6 @@ activity_version = 2
 bundle_id = org.olpcfrance.Gridpaint
 exec = sugar-activity-web
 icon = activity-icon
+summary = Grid Paint is a simple paint activity for kids to drawing pictures using a grid of triangles.
+tags = Art
+reoository = https://github.com/llaske/Gridpaint.activity
